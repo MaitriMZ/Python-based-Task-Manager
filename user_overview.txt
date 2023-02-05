@@ -1,0 +1,28 @@
+This file gives you user and tasks Overview
+-------------------------------------------
+Total Registered users                            3
+Total Tasks                                       8
+
+User admin Overview
+---------------------
+Total Tasks                                       2
+User Tasks percentage                             25.00
+User Tasks Completed Percentage                   50.00
+User Tasks Must be Completed Percentage           50.00
+User Tasks Overdue Percentage                     50.00
+
+User maitri Overview
+---------------------
+Total Tasks                                       6
+User Tasks percentage                             75.00
+User Tasks Completed Percentage                   66.67
+User Tasks Must be Completed Percentage           33.33
+User Tasks Overdue Percentage                     0.00
+
+User garima Overview
+---------------------
+Total Tasks                                       0
+User Tasks percentage                             0.00
+User Tasks Completed Percentage                   0.00
+User Tasks Must be Completed Percentage           0.00
+User Tasks Overdue Percentage                     0.00
